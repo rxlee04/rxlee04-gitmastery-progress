@@ -52,5 +52,14 @@
       "You should be using ** to match all subfolders to ignore runaway.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769090807.372794,
+    "completed_at": 1769090814.529087,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
   }
 ]
